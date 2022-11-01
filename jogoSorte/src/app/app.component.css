@@ -1,0 +1,40 @@
+*{
+  padding: 0;
+  margin: 0;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+}
+
+.jogada{
+  width: 100%;
+  height: 130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+}
+
+h1{
+  font-size: 50px;
+}
+
+p{
+  font-size: 16px;
+  margin-left: 4px;
+}
+
+.txt{
+  margin-bottom: 20px;
+}
+
+.txt h2{
+  margin-left: 4px;
+}
+
+.cor{
+  color: #f3f3f3;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 700;
+}
